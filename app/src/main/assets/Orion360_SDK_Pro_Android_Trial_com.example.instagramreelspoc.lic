@@ -1,0 +1,23 @@
+# This file contains the list of applications
+# for which this Orion360 license is valid
+# Please do not modify this file in any way
+
+packagename=com.example.instagramreelspoc
+logo=finwe
+platform = android
+version = 3.0
+enableFeatureExplicit = video360 \
+image360 \
+sprite \
+barrel_distortion
+expirationDate =
+
+issueDate = 2023-07-03 09:53:58 +0000
+
+=========================== BEGIN-SIGNATURE-V3.37 ===========================
+e0l7ILoW75nQkOc2LMzFb3S+ZHilXTn2goCQLwa1Q03X9dH1a7vIVN+LzIz2vQIAgwbKHdZuRUM1
+SsmVFeFzb9DMHswmV67CsOtGyaNJQElnjEmNykUv20K7rPDAkHVtrT5Vf6MAIDWp3kI83Pn1WXfh
+m+WTJSsBO5azH6WYsiviDxlO90tL8rFkYazfWVNXp3EkbrPfeU49U4VUCYK/dWE5aJHisCa+6woZ
+o2g9TYB3yahDi9rYJfY0fHf9ScX+0Kz5fCAJJtWQ6GxRzRXcMVOIha1UaD9wwZZrpdJLPKo2ixMQ
+kOfnK1FSuGsayJU9KE9QTL3VMolTjNe1OK0axA==
+============================= END-SIGNATURE-V3.37 ===========================
